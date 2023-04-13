@@ -1,0 +1,27 @@
+Added Component: Designator=L1(WE-PD_1510)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Power Inductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/7447709152?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/7447709152?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance"; Value = "1800mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance Max"; Value = "2300mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "1500uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "7447709152"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-PD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "0.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Saturation Current"; Value = "0.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = "0.9MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "12mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_C Pin=L1-1
+Added Pin To Net: NetName=Net330O_2 Pin=L1-2
+Added Member To Class: ClassName=01_Schematic Member=Component L1 ?uH, ?A
